@@ -45,5 +45,12 @@ Recipes by Avgustin is a convenient mobile application for all things, developed
 - Firebase (auth,firestore,database,analytics)
 - API
 
+## Video
+
+
+https://github.com/NPaugust/Recipe/assets/72886935/251a300f-3a68-48b3-8105-10a1b31c310f
+
+
+
 ## Credit
 [Avgustine](https://github.com/NPaugust)
