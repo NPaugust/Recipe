@@ -14,17 +14,25 @@ Recipes by Avgustin is a convenient mobile application for all things, developed
 
 ## Screens
 <p float="left">
-  <img src="screenshots/q.jpg" width="700" height="380" />
-  <img src="screenshots/w.jpg" width="700" height="380" />
-  <img src="screenshots/e.jpg" width="700" height="380" />
-  <img src="screenshots/r.jpg" width="700" height="380" />
-  <img src="screenshots/t.jpg" width="700" height="380" />
-  <img src="screenshots/y.jpg" width="700" height="380" />
-  <img src="screenshots/u.jpg" width="700" height="380" />
-  <img src="screenshots/i.jpg" width="700" height="380" />
-  <img src="screenshots/o.jpg" width="700" height="380" />
+  <img src="screenshots/q.jpg" width="200" height="400" />
+  <img src="screenshots/w.jpg" width="200" height="380" />
+  <img src="screenshots/e.jpg" width="200" height="380" />
+  <img src="screenshots/r.jpg" width="200" height="380" />
+  <img src="screenshots/t.jpg" width="200" height="380" />
+  <img src="screenshots/y.jpg" width="200" height="380" />
+  <img src="screenshots/u.jpg" width="200" height="380" />
+  <img src="screenshots/i.jpg" width="200" height="380" />
+  <img src="screenshots/o.jpg" width="200" height="380" />
   </p>
 
+  ## logo
+  
+  <p float="left">
+    <img src="screenshots/app_icon.png" width="200" height="380" />
+    <img src="screenshots/recipeapp.png" width="200" height="380"/>
+  </p>
+
+  
 ## Firebase'
 <p float="center">
   <img src="screenshots/1.png" width="800" height="380" />
