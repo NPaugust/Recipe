@@ -28,8 +28,8 @@ Recipes by Avgustin is a convenient mobile application for all things, developed
   ## logo
   
   <p float="left">
-    <img src="screenshots/app_icon.png" width="200" height="380" />
-    <img src="screenshots/recipeapp.png" width="200" height="380"/>
+    <img src="screenshots/app_icon.png" width="150" height="180" />
+    <img src="screenshots/recipeapp.png" width="150" height="180"/>
   </p>
 
   
